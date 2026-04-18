@@ -1,0 +1,36 @@
+2026-04-18 14:24:38,380 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-04-18 14:24:38,380 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 14:24:38,380 - INFO -  * Restarting with stat
+2026-04-18 14:24:38,475 - WARNING -  * Debugger is active!
+2026-04-18 14:24:38,478 - INFO -  * Debugger PIN: 577-986-956
+2026-04-18 14:26:06,306 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-04-18 14:26:06,307 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 14:26:06,307 - INFO -  * Restarting with stat
+2026-04-18 14:26:06,393 - WARNING -  * Debugger is active!
+2026-04-18 14:26:06,396 - INFO -  * Debugger PIN: 577-986-956
+2026-04-18 14:26:37,551 - INFO - 127.0.0.1 - - [18/Apr/2026 14:26:37] "[35m[1mGET /smart HTTP/1.1[0m" 500 -
+2026-04-18 14:27:13,640 - INFO - 127.0.0.1 - - [18/Apr/2026 14:27:13] "[35m[1mGET /smart?buy_price=abc HTTP/1.1[0m" 500 -
+2026-04-18 14:36:50,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2026-04-18 14:36:50,391 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 14:36:50,391 - INFO -  * Restarting with stat
+2026-04-18 14:36:50,486 - WARNING -  * Debugger is active!
+2026-04-18 14:36:50,489 - INFO -  * Debugger PIN: 577-986-956
+2026-04-18 14:37:04,574 - INFO - Smart endpoint hit
+2026-04-18 14:37:04,574 - INFO - 127.0.0.1 - - [18/Apr/2026 14:37:04] "[31m[1mGET /smart HTTP/1.1[0m" 400 -
+2026-04-18 14:37:10,156 - INFO - Smart endpoint hit
+2026-04-18 14:37:10,157 - INFO - 127.0.0.1 - - [18/Apr/2026 14:37:10] "[31m[1mGET /smart?buy_price=abc HTTP/1.1[0m" 400 -
+2026-04-18 14:37:40,643 - INFO - Smart endpoint hit
+2026-04-18 14:37:40,643 - INFO - Smart trending function called
+2026-04-18 14:37:40,643 - INFO - Processing item: Basketball Shoes
+2026-04-18 14:37:40,643 - INFO - Processing item: Running Shoes
+2026-04-18 14:37:40,643 - INFO - Processing item: Training Shoes
+2026-04-18 14:37:40,644 - INFO - 127.0.0.1 - - [18/Apr/2026 14:37:40] "GET /smart?buy_price=20 HTTP/1.1" 200 -

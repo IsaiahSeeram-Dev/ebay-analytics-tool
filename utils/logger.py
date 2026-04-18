@@ -1,0 +1,15 @@
+import logging
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    filename="app.log",
+    filemode="a"
+
+) 
+
+def log_info(message):
+    logging.info(message)
+
+def log_error(message):
+    logging.error(message)
