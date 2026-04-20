@@ -34,3 +34,50 @@
 2026-04-18 14:37:40,643 - INFO - Processing item: Running Shoes
 2026-04-18 14:37:40,643 - INFO - Processing item: Training Shoes
 2026-04-18 14:37:40,644 - INFO - 127.0.0.1 - - [18/Apr/2026 14:37:40] "GET /smart?buy_price=20 HTTP/1.1" 200 -
+2026-04-20 17:29:26,933 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.34.104:5000
+2026-04-20 17:29:26,934 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 17:29:26,934 - INFO -  * Restarting with stat
+2026-04-20 17:29:27,093 - WARNING -  * Debugger is active!
+2026-04-20 17:29:27,162 - INFO -  * Debugger PIN: 115-659-842
+2026-04-20 17:34:31,312 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.34.104:5000
+2026-04-20 17:34:31,312 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 17:34:31,314 - INFO -  * Restarting with stat
+2026-04-20 17:34:31,472 - WARNING -  * Debugger is active!
+2026-04-20 17:34:31,473 - INFO -  * Debugger PIN: 115-659-842
+2026-04-20 17:36:45,802 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.34.104:5000
+2026-04-20 17:36:45,802 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 17:36:45,804 - INFO -  * Restarting with stat
+2026-04-20 17:36:45,962 - WARNING -  * Debugger is active!
+2026-04-20 17:36:45,962 - INFO -  * Debugger PIN: 115-659-842
+2026-04-20 17:37:15,808 - INFO - 96.246.198.32 - - [20/Apr/2026 17:37:15] "GET / HTTP/1.1" 200 -
+2026-04-20 17:37:15,960 - INFO - 96.246.198.32 - - [20/Apr/2026 17:37:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 20:32:50,285 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.34.104:5000
+2026-04-20 20:32:50,285 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 20:32:50,287 - INFO -  * Restarting with stat
+2026-04-20 20:32:50,447 - WARNING -  * Debugger is active!
+2026-04-20 20:32:50,447 - INFO -  * Debugger PIN: 115-659-842
+2026-04-20 20:33:09,532 - INFO - 127.0.0.1 - - [20/Apr/2026 20:33:09] "GET / HTTP/1.0" 200 -
+2026-04-20 20:46:10,753 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.34.104:5000
+2026-04-20 20:46:10,753 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 20:46:10,755 - INFO -  * Restarting with stat
+2026-04-20 20:46:10,915 - WARNING -  * Debugger is active!
+2026-04-20 20:46:10,915 - INFO -  * Debugger PIN: 115-659-842
+2026-04-20 20:46:32,038 - INFO - 127.0.0.1 - - [20/Apr/2026 20:46:32] "GET / HTTP/1.0" 200 -
+2026-04-20 20:46:46,776 - INFO - 127.0.0.1 - - [20/Apr/2026 20:46:46] "GET / HTTP/1.0" 200 -
+2026-04-20 20:46:49,864 - INFO - 127.0.0.1 - - [20/Apr/2026 20:46:49] "GET / HTTP/1.0" 200 -
+2026-04-20 20:46:50,065 - INFO - 127.0.0.1 - - [20/Apr/2026 20:46:50] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
