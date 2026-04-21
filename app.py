@@ -5,6 +5,8 @@ from database import create_tables
 # create Flask app
 app = Flask (__name__)
 
+
+
 # to register routes (API Endpoints)
 app.register_blueprint(ebay_bp)
 
