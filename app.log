@@ -204,3 +204,24 @@
 2026-04-21 13:07:33,070 - INFO -  * Restarting with stat
 2026-04-21 13:07:33,234 - WARNING -  * Debugger is active!
 2026-04-21 13:07:33,234 - INFO -  * Debugger PIN: 128-711-666
+2026-04-23 17:29:33,082 - INFO - Smart endpoint hit
+2026-04-23 17:29:33,084 - INFO - Smart trending function called
+2026-04-23 17:29:33,084 - INFO - Processing item: Basketball Shoes
+2026-04-23 17:29:33,084 - INFO - Processing item: Running Shoes
+2026-04-23 17:29:33,084 - INFO - Processing item: Training Shoes
+2026-04-23 19:52:00,697 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 19:52:15,836 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:00:54,192 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:01:11,881 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:01:27,386 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:02:20,172 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:13:20,378 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:13:31,057 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:14:02,061 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:14:15,586 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:14:21,096 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:14:31,774 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:15:00,553 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:16:06,494 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:27:29,115 - ERROR - Expecting value: line 1 column 1 (char 0)
+2026-04-23 20:27:35,827 - ERROR - Expecting value: line 1 column 1 (char 0)
