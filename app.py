@@ -1,4 +1,4 @@
-from flask import Flask 
+from flask import Flask, render_template 
 from routes.ebay_routes import ebay_bp
 from database import create_tables
 
@@ -12,7 +12,7 @@ app.register_blueprint(ebay_bp)
 
 @app.route('/') 
 def home(): 
-    return "eBay Tracker Running" 
+    return render_template("index.html") 
  
 
 # to create database tables when app starts

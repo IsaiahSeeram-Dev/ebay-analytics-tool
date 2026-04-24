@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>eBay Analytics Tool</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>eBay Analytics Tool</h1>
+        <p>Search a product and estimate profit potential.</p>
+
+        <div class="form-box">
+            <input id="query" placeholder="Product keyword, e.g. phone">
+            <input id="buyPrice" type="number" placeholder="Your buy price">
+            <button onclick="analyzeProduct()">Analyze</button>
+        </div>
+
+        <div id="results"></div>
+    </div>
+
+    <script>
+        async function analyzeProduct() {
+            const query = document.getElementById("query").value;
+            const buyPrice = document.getElementById("buyPrice").value;
+            const resultsDiv = document.getElementById("results");
+
+            resultsDiv.innerHTML = "<p>Loading...</p>";
+
+            const response = await fetch(`/analyze?query=${query}&buy_price=${buyPrice}`);
+            const data = await response.json();
+
+            resultsDiv.innerHTML = "";
+
+            data.forEach(item => {
+                resultsDiv.innerHTML += `
+                    <div class="card">
+                        <h3>${item.name}</h3>
+                        <p>Sell Price: $${item.sell_price}</p>
+                        <p>Estimated Profit: $${item.estimated_profit}</p>
+                        <p>Sold Volume: ${item.sold_volume}</p>
+                    </div>
+                `;
+            });
+        }
+    </script>
+</body>
+</html>

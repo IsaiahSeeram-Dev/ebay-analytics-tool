@@ -6,12 +6,13 @@ import requests
 
 def search_items(query):
     try:
-        response = requests.get("https://fakestoreapi.com/products")
+        response = requests.get("https://dummyjson.com/products")
         data = response.json()
-
+    
+        products = data.get("products", [])
         results = []
 
-        for item in data:
+        for item in products:
             title = item["title"].lower()
 
             if query.lower() in title:
@@ -23,7 +24,7 @@ def search_items(query):
 
         # ✅ fallback if no matches
         if not results:
-            for item in data:
+            for item in products:
                 results.append({
                     "name": item["title"],
                     "price": item["price"],
@@ -84,7 +85,7 @@ def analyze_items(query, buy_price_estimate):
 
         results.append(
             {
-                "name": item.get("name", "Unknown Item"),
+                "name": item["name"],
                 "sell_price": sell_price,
                 "estimated_profit": round(profit, 2),
                 "sold_volume": item.get("sold", 0),
