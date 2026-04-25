@@ -1,13 +1,13 @@
 # Cloud-Based eCommerce Analytics Tool
 
-## 🚀 Overview
+#Overview
 This is a cloud-based web application designed to analyze product data and identify profitable items for resale.
 
 The application allows users to search for products, estimate profit margins, and view ranked results based on profitability.
 
 ---
 
-## 🧠 Features
+# Features
 - Search products using keyword input
 - Calculate estimated profit margins
 - Rank items based on profitability
@@ -16,7 +16,7 @@ The application allows users to search for products, estimate profit margins, an
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 - **Cloud:** AWS EC2
 - **Backend:** Python, Flask
 - **Web Server:** NGINX
@@ -27,12 +27,12 @@ The application allows users to search for products, estimate profit margins, an
 
 ---
 
-## 🌐 Architecture
+# Architecture
 User → NGINX → Gunicorn → Flask → API → Response (JSON)
 
 ---
 
-## ⚙️ How It Works
+# How It Works
 1. User enters a product keyword and buy price
 2. Flask backend processes the request
 3. External API provides product data
@@ -41,9 +41,9 @@ User → NGINX → Gunicorn → Flask → API → Response (JSON)
 
 ---
 
-## 🔧 Setup Instructions
+# Setup Instructions
 
-### 1. Clone the repository
+ Clone the repository
 ```bash
 git clone https://github.com/IsaiahSeeram-Dev/ebay-analytics-tool.git
 cd ebay-analytics-tool
