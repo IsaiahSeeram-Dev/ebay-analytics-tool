@@ -41,6 +41,17 @@ User → NGINX → Gunicorn → Flask → API → Response (JSON)
 
 ---
 
+# Future Improvements
+
+- Integrate the official eBay API once developer access is approved
+- Add Amazon S3 for cloud-based report/file storage
+- Add Amazon RDS for persistent database storage
+- Implement HTTPS with a domain name and SSL certificate
+- Improve UI/UX with cleaner tables, filters, and charts
+- Add user authentication and saved search history
+
+
+
 # Setup Instructions
 
  Clone the repository
